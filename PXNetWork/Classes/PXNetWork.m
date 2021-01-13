@@ -7,7 +7,7 @@
 //
 
 #import "PXNetWork.h"
-#import <AFNetworking.h>
+#import "AFNetworking.h"
 
 @interface PXNetWork ()
 @property (nonatomic,strong) AFHTTPSessionManager* manger;
